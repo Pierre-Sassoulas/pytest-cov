@@ -30,6 +30,7 @@ select = [
     "INT", # flake8-gettext
     "PIE", # flake8-pie
     "PLC", # pylint convention
+    "PLW", # pylint warning
     "PLE", # pylint errors
     "PT", # flake8-pytest-style
     "PTH", # flake8-use-pathlib
